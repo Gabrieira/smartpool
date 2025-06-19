@@ -1,0 +1,9 @@
+path: ./  
+train: datasets/smartpool/train  
+val: datasets/smartpool/train 
+test:  
+
+# Classes
+names:
+  0: afogando
+  1: nadando
